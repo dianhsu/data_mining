@@ -1,0 +1,6 @@
+*.pdf
+*.yaml
+print_my_data.py
+venv/
+.idea/
+**/__pycache__/

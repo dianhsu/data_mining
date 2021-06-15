@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+html5lib
+pyyaml
+nltk
+sklearn
+numpy
+pycups
+PyPDF2
+matplotlib
+pandas
+networkx
